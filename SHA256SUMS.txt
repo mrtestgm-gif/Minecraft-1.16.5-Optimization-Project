@@ -1,2 +1,0 @@
-e3e0d7400fade55afe792b393e090ebfb18521aec0066af283a28799e634f714  eaglercraft-1.16.5-optimized.html
-faf83f56cdca4a137f979d49095803f15fd80c4f9e243a6f7cfbfddf362766f1  eaglercraft-1.16.5-optimized.zip
