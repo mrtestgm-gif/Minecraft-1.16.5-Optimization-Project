@@ -1,0 +1,10 @@
+{
+  "recovered": true,
+  "sha256": "e3e0d7400fade55afe792b393e090ebfb18521aec0066af283a28799e634f714",
+  "bytes": 46881130,
+  "file": "eaglercraft-1.16.5-optimized.html",
+  "patches_changed": false,
+  "game_wasm_sha256": "db4ef638a2f8f93022ad2521b453a4885c39c7c9bc1f3121e3512b32b6bc2723",
+  "non_runtime_epw_components_unchanged": true,
+  "beforeunload_and_body_unchanged": true
+}
